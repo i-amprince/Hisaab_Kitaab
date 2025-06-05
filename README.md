@@ -35,3 +35,15 @@
 
 ## Note
   - Since it uses MongoDB Compass which runs locally on my machine.. It will not work outside 
+
+## Screenshots
+
+### Login Page
+![Login Page](frontend/public/images/Login.png)
+
+### Signup Page
+![Signup Page](frontend/public/images/Signup.png)
+
+### Dashboard
+![Dashboard](frontend/public/images/Dashboard.png)
+
