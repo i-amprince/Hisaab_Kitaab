@@ -32,3 +32,6 @@
 | React.js        | Node.js + Express | MongoDB |
 
 ---
+
+## Note
+  - Since it uses MongoDB Compass which runs locally on my machine.. It will not work outside 
